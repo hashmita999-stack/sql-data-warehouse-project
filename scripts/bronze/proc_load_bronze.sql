@@ -10,7 +10,7 @@ Parameters:
 None.
 This stored procedure does not accept any parameters or return any values.
 
-Usafe example: EXEC bronze.load_bronze;
+Usage example: EXEC bronze.load_bronze;
 ==================================================================================
 */
 
